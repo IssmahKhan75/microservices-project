@@ -1,0 +1,10 @@
+C:\Users\Spring2020\source\repos\microservices\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Spring2020\source\repos\microservices\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Spring2020\source\repos\microservices\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Spring2020\source\repos\microservices\bin\Debug\netcoreapp3.1\microservices.exe
+C:\Users\Spring2020\source\repos\microservices\obj\Debug\netcoreapp3.1\microservices.csprojAssemblyReference.cache
+C:\Users\Spring2020\source\repos\microservices\obj\Debug\netcoreapp3.1\staticwebassets\microservices.StaticWebAssets.Manifest.cache
+C:\Users\Spring2020\source\repos\microservices\obj\Debug\netcoreapp3.1\staticwebassets\microservices.StaticWebAssets.xml
+C:\Users\Spring2020\source\repos\microservices\obj\Debug\netcoreapp3.1\microservices.AssemblyInfoInputs.cache
+C:\Users\Spring2020\source\repos\microservices\obj\Debug\netcoreapp3.1\microservices.AssemblyInfo.cs
+C:\Users\Spring2020\source\repos\microservices\obj\Debug\netcoreapp3.1\microservices.RazorTargetAssemblyInfo.cache
